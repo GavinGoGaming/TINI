@@ -8,6 +8,8 @@ Then, copy the code from `demo.js` and paste it in.
 
 Edit the code where it says "put your code here" and boom!
 
+**WARNING: TRYIT MAY ADD SOME RED DOT CHARACTERS, PLEASE DELETE THEM**
+
 ## The TINI Api
 TINI has a few functions for use.
 ```js
