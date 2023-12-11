@@ -3,16 +3,14 @@ const _0x44696e=_0x1877;async function shell($){let x=_0x44696e;console[x(442)](
 
 // START OF YOUR CODE
 async function x() {
-​
 
 
   
 // Put your code here
-var test = await node(`console.log("Hello from a Cloud FS")`);
-var user = await shell(`whoami`);
+var test = await node(`console.log("Hello from cloud nodejs")`);
+var user = await shell(`echo "Hello from cloud shell"`);
 console.log("Node output: " + test[0]);
-console.log("Whoami output: " + user[0]);
-​
+console.log("Echo output: " + user[0]);
 
 
   
